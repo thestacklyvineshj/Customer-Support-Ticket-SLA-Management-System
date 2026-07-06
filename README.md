@@ -175,26 +175,29 @@ The system compares actual timestamps against SLA deadlines:
 
 ## Screenshots
 
-Application screenshots are available in [`docs/screenshots/`](docs/screenshots/):
+### Login Page
 
-| Screenshot | Description |
-|------------|-------------|
-| `01-login.png` | Login page |
-| `02-analytics-dashboard.png` | Admin analytics dashboard |
-| `03-ticket-creation.png` | Customer ticket creation form |
-| `04-ticket-assignment.png` | Admin ticket assignment dashboard |
-| `05-sla-dashboard.png` | SLA monitoring dashboard |
-| `06-ticket-resolution.png` | Ticket resolution flow with comments |
+![Login page](docs/screenshots/01-login.png)
 
-## Screenshots Checklist
+### Admin Analytics Dashboard
 
-Capture screenshots for:
-- [ ] Login page
-- [ ] Ticket creation form
-- [ ] Ticket assignment dashboard
-- [ ] SLA monitoring dashboard
-- [ ] Analytics dashboard (Admin)
-- [ ] Ticket resolution flow (agent comments + status update)
+![Admin analytics dashboard](docs/screenshots/02-analytics-dashboard.png)
+
+### Customer Ticket Creation
+
+![Customer ticket creation form](docs/screenshots/03-ticket-creation.png)
+
+### Ticket Assignment Dashboard
+
+![Admin ticket assignment dashboard](docs/screenshots/04-ticket-assignment.png)
+
+### SLA Monitoring Dashboard
+
+![SLA monitoring dashboard](docs/screenshots/05-sla-dashboard.png)
+
+### Ticket Resolution Flow
+
+![Ticket resolution flow with comments](docs/screenshots/06-ticket-resolution.png)
 
 ## Demo Video Checklist
 
